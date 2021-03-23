@@ -1,0 +1,80 @@
+div.nav ul li{
+    display: inline-block;
+    left: 0;
+}
+
+div.nav{
+    background-color: blue;
+    padding: 2px;
+    align-items: center;
+}
+
+div.nav ul li.bouton{
+    text-align: center;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: orange;
+    top: 0;
+}
+
+body{
+    background-color: blue
+}
+
+footer{
+    position: fixed;
+    display: flex;
+    bottom: 0;
+    background-color: red;
+    border-radius: 20px;
+    padding: 7px;
+    
+}
+
+h2{
+    top: 85px;
+    left: 0;
+    border-radius: 20px;
+    background-image: url("../Images/Logo.jpg");
+}
+
+div.footer{
+    background-color: red;
+}
+
+footer a{
+    color: blue;
+    text-decoration-color: blue;
+    bottom: 0;
+}
+
+div.nav h2{
+    position: fixed;
+    top: 2;
+}
+ 
+div.nav ul{
+    background-color: cyan;
+    padding: 10px;
+    top: 0;
+}
+
+p.infos{
+    background-color: darkblue;
+    size: 50px;
+    box-sizing: border-box;
+    width: 500px;
+    border: 5px solid;
+    border-color: #00A314;
+}
+
+img.logo{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+ul.liste-mod{
+    width: 500px;
+    list-style: none;
+}
